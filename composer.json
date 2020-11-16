@@ -1,0 +1,15 @@
+{
+    "name": "monserrat/sistemaescolarv3",
+    "description": "sistema escolar v3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Monserrat-Martinez",
+            "email": "monsemartinez171@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^7.29",
+        "illuminate/events": "^7.29"
+    }
+}
